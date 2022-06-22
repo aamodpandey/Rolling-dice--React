@@ -1,0 +1,12 @@
+.purple {
+  background-color: var(--bs-purple);
+  display: inline-block;
+}
+button {
+  transition: all 0.5s ease-out !important;
+}
+
+button:hover {
+  background-color: rgb(33, 37, 41, 0.6) !important;
+  transition: all 0.5s ease-out;
+}
